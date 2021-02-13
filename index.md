@@ -1,4 +1,5 @@
-## "Randomized Hinge Poem" by: Danielle Neal Et Al (thanks, Hinge Matches)
+## "Randomized Hinge Poem" by: Danielle Neal 
+## Et Al (thanks, Hinge Matches)
 
 This was an assignment from my History and Theory of Interactive Media course, in a unit on randomization as a 
 technique in Interactive Media. 
