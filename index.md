@@ -1,8 +1,10 @@
-## Welcome to Dani's Exercise 3 Page
+## "Randomized Hinge Poem" by: Danielle Neal Et Al (thanks, Hinge Matchess)
 
-You can use the [editor on GitHub](https://github.com/ucf-student/Danielle-Neal.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This was an assignment from my History and Theory of Interactive Media course, in a unit on randomization as a 
+technique in Interactive Media. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The video below includes the final version of this poem, along with documentation of its implementation in the 
+production process
 
 ### Markdown
 
