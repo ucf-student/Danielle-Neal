@@ -6,12 +6,9 @@ technique in Interactive Media.
 The video below includes the final version of this poem, along with documentation of its implementation in the 
 production process
 
-### Markdown
+### Video Documentation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WyArOHS6B6g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Header 1
 ## Header 2
